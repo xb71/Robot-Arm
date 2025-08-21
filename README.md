@@ -1,4 +1,5 @@
 Degrees of Freedom:
+
 The robotic arm is designed with 5 Degrees of Freedom :
 
 Base Rotation —> rotates the entire arm around its vertical axis.
